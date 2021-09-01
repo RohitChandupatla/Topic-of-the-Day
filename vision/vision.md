@@ -10,4 +10,6 @@
  
  * Everday the updates get changed , so with the help of this app the students can know the daily changes in  the app.
 
- * It even has a speciality of poping up an daily reminder of the most viewed topic by the students so that they would not miss an updated regargng the topic they are looking for.
+ * It even has a speciality of poping up an daily reminder of the most viewed topic by the students so that they would not miss any updated regarding the topic they are looking for.
+
+ 
