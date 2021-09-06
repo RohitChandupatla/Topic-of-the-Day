@@ -1,7 +1,7 @@
 # RFP - Topic-Of-the-day 
 ## Statement of Purpose
 
-<p>Our bearcats come from different parts of the world and one of the goals of our university is to maintain a high Unity in Diversity!.So here is our app that helps the students to just stay focused and stay updated with different topics which are happening in the university. 
+<p>Our bearcats come from different parts of the world and one of the goal of our university is to maintain a high Unity in Diversity!.So here is our app that helps the students of diffferent streams and differents courses to get to know about the most happening topic that could be helpful for every student regardless of their educational background. This application shows a main highlighted topic on the main screeen in a way where students get to know all the information about that particular topic.
 </p>
     <br>1. To help the students to stay updated.</br>
     <br>2. Students can make sure if they covered a particular topic.</br>
