@@ -1,15 +1,16 @@
 
 ## VISION ##
 
-* Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding the specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
+* Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
 
 * This contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
 
 ## Working of the app ##
-* After logging in to the app the users will be able to see the topics of the day and thereafter one click away they will find the updates about that particular topic daily. 
- 
- * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
 
+ * This app opens with a loggin page where they get to enter their Sid and password to open the application.
+ *  Our app mainly shows a single highlighted topic on the screen.
+ *  Students can see about other different also but when they click on the topics button. 
+ * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
  * It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
 
  
