@@ -17,7 +17,9 @@ The main goal of our application is to help the bearcats to know the updates tha
 
 ## Team Members
 
-  * [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
+ |Name of the Team Members|Contact Information|
+ |------------------------+-------------------|
+ 
   * [Prasanna Arla](https://github.com/PRASANNAARLA)
   * [Akanksha Sudhagoni](https://github.com/S542046)
   * [Sri Sathya Mamidala](https://github.com/srisathyamamidala)
