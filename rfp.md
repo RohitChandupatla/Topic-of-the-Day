@@ -9,7 +9,7 @@
 
  ## Objective 
 <p>
-The main goal of our application is to help the bearcats to know the updates that are happening in the univeristy in different sections and the bearcats get to know different topics that are going to take place on that particular day in the university and suggests the users to have a watch at those particular topics.It also gives them a daily reminder and views the topics for the students  that they have been viewing many times.</p>
+The main goal of our application is to help the bearcats to get to  know about the updates of different topics that are happening in the university and to check  if they reached out to them.</p>
 
 ## Client
  Name: [Dr. Denise Case](https://github.com/denisecase)
