@@ -24,4 +24,11 @@ The main goal of our application is to help the bearcats to get to  know about t
  | Sri Sathya Mamidala | s542298@nwmissouri.edu |
  | Prasanna Arla | s542423@nwmissouri.edu |
  
+## Technical Requirements
+To develop an app with authentication and authorization. <br/>
+### Roles as suggested :
+
+‣ Administrator (to access all the information and keep updating the topics in the app).<br/>
+‣ User (to have a look at the topics)<br/>
+
  
