@@ -26,27 +26,23 @@ The main goal of our application is to help the bearcats to get to  know about t
  
 ## Technical Requirements
 To develop an app with authentication and authorization. <br/>
+
 ### Roles as suggested :
 
 ‣ Administrator (to access all the information and keep updating the topics in the app).<br/>
 ‣ User (to have a look at the topics)<br/>
 
 
-## VISION ##
+## Vision
 
 * Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
 
 * This contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
 
-## Working of the app ##
+## Working of the app
 
  * This app opens with a loggin page where they get to enter their Sid and password to open the application.
  *  Our app mainly shows a single highlighted topic on the screen.
  *  Students can see about other different also but when they click on the topics button. 
  * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
  * It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
-
- 
-
-
- 
