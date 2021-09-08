@@ -58,4 +58,11 @@ To develop an app with authentication and authorization. <br/>
      - Create User
      - Can't Sign in 
 
-
+  ### Collections
+    - ID
+    - UserID
+    - Administration
+    - Student Union
+    - Recreation Centre and Gym 
+    - Library
+    - Sports
