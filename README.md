@@ -3,9 +3,9 @@ The main objective of our application is to assist bearcats stay up to speed on 
 
 ### Team Members 
 
-[Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
-[Akanksha Sudhagoni](https://github.com/S542046)
-[Sri Sathya Mamidala](https://github.com/srisathyamamidala)
-[Prasanna Arla](https://github.com/PRASANNAARLA)
+[Rohit Reddy Chandupatla](https://github.com/Rohitreddz)<br/>
+[Akanksha Sudhagoni](https://github.com/S542046)<br/>
+[Sri Sathya Mamidala](https://github.com/srisathyamamidala)</br>
+[Prasanna Arla](https://github.com/PRASANNAARLA)</br>
 
 
