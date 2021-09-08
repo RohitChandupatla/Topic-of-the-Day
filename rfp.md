@@ -46,3 +46,16 @@ To develop an app with authentication and authorization. <br/>
  *  Students can see about other different also but when they click on the topics button. 
  * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
  * It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
+
+ ## Entities
+
+ ### User
+     - UserID
+     - Password
+     - Email 
+     - First Name
+     - Last Name
+     - Create User
+     - Can't Sign in 
+
+
