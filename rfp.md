@@ -66,3 +66,6 @@ To develop an app with authentication and authorization. <br/>
     - Recreation Centre and Gym 
     - Library
     - Sports
+    
+  ### ER Diagram
+  ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
