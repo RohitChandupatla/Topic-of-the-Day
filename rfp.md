@@ -19,10 +19,10 @@ The main goal of our application is to help the bearcats to get to  know about t
 
  | Name of the Team Members | Contact Information |
  | -------------------------|-------------------- |
- | Rohit Reddy Chandupatla  | s542423@nwmissouri.edu |
- | Akanksha Sudhagoni | s542046@nwmissouri.edu |
- | Sri Sathya Mamidala | s542298@nwmissouri.edu |
- | Prasanna Arla | s542423@nwmissouri.edu |
+ | [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)  | s542423@nwmissouri.edu |
+ | [Akanksha Sudhagoni](https://github.com/S542046) | s542046@nwmissouri.edu |
+ | [Sri Sathya Mamidala](https://github.com/S542046) | s542298@nwmissouri.edu |
+ | [Prasanna Arla](https://github.com/S542046) | s542423@nwmissouri.edu |
  
 ## Technical Requirements
 To develop an app with authentication and authorization. <br/>
