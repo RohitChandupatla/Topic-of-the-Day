@@ -67,5 +67,10 @@ To develop an app with authentication and authorization. <br/>
     - Library
     - Sports
     
+  ### Functional requirements ###
+  1. As a user first we need to login into the application by using the username and password.
+  2. If in case we do not the account for the FYI , we need to create a new account.
+
+
   ### ER Diagram
   ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
