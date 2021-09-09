@@ -67,15 +67,22 @@ To develop an app with authentication and authorization. <br/>
     - Library
     - Sports
     
-  ### Functional requirements ###
-  1. As a user first we need to login into the application by using the username and password.
-  2. If in case we do not the account for the FYI , we need to create a new account.
-  3. If user cannot sign in into the application then an confirmation email is sent their email address ,by reviewing that email user can login back into the application.
-  4. As a user after signing in we get into the daily topic collections page.
-  5. Here the user needs to select their intrested topic.
-  6. There after it displays the recent updates regarding that collection .
-  7. So that user will not miss any update regarding the topic.
-  8. So as a user the most viewed topics will be displayed first on the screen as a daily reminder.
+  ### Functional requirements 
+   
+   As a user
+   * First we need to login into the application by using the username and password.
+   * If in case we do not have the account for the FYI , we need to create a new account.
+   * If user cannot sign in into the application then an confirmation mail is sent their email address.
+   * By reviewing that email user can login back into the application.
+   
+   As a user
+   * As a user after signing in we get into the daily topic collections page.
+   * Here the user needs to select their intrested topic.
+   * There after it displays the recent updates regarding that collection.
+   *  So that user will not miss any update regarding the topic.
+   
+   As a user
+   * The most viewed topics will be displayed first on the screen as a daily reminder.
   
 
   ###  Duration ###
