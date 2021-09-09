@@ -86,9 +86,13 @@ To develop an app with authentication and authorization. <br/>
    * The most viewed topics will be displayed first on the screen as a daily reminder.
   
 
-  ###  Duration ###
-  18-Aug-2021 to 5-Dec-2021 Tools required for the app , gathering knowledge regarding it and having an clear idea for developing the app.
-  12-jan-2022 to 01-Apr-2022 Developing the app and submitting on time.
+  ### Schedule Duration 
+  
+  18-Aug-2021 to 5-Dec-2021 
+  * Tools required for the app, gathering knowledge regarding it and having a clear idea for developing the app.
+  
+  12-jan-2022 to 01-Apr-2022
+  * Developing the app, testing it and submitting on time.
 
   ### sDevelopment Requirement ###
    1. Front end with Markdown and HTML.
