@@ -30,7 +30,7 @@ To develop an app with authentication and authorization. <br/>
 ### Roles as suggested :
 
 ‣ Administrator (to access all the information and keep updating the topics in the app).<br/>
-‣ User (to have a look at the topics)<br/>
+‣ User (to have a look at the topics).<br/>
 
 
 ## Vision
@@ -83,7 +83,7 @@ To develop an app with authentication and authorization. <br/>
    * As a user after signing in we get into the daily topic collections page.
    * Here the user needs to select their intrested topic.
    * There after it displays the recent updates regarding that collection.
-   *  So that user will not miss any update regarding the topic.
+   * So that user will not miss any update regarding the topic.
    
    As a user
    * The most viewed topics will be displayed first on the screen as a daily reminder.
@@ -104,6 +104,8 @@ To develop an app with authentication and authorization. <br/>
    
 
   ### Rough Sketch
+
+
 
 
   ### Rough Mockup
