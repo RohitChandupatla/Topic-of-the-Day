@@ -36,6 +36,7 @@ To develop an app with authentication and authorization and Progressive web appl
 * Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
 
 * This contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
+* Once when  the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
 
 ## Working of the app
 
