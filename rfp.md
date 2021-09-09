@@ -64,6 +64,7 @@ To develop an app with authentication and authorization. <br/>
     - Administration
     - Student Union
     - Recreation Centre and Gym 
+    - Campus Dining 
     - Library
     - Sports
     
