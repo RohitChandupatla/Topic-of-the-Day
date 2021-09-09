@@ -39,11 +39,12 @@ To develop an app with authentication and authorization and Progressive web appl
 * Once when  the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
 * When they click on that one highlighted topic then a screen with all other topics opens up. Showing each different theamtopic of that particular day.
 * Now, this page has the headings of all the topics and when the users click on a particular topic it given complete information about the topic.
+* In our application we are follwing a theam of Northwest green and white colours, with bearcat logos hearv and there making sure our vapplicatioon is pretty appealing.
 ## Working of the app
 
  * This app opens with a loggin page where they get to enter their Sid and password to open the application.
  *  Our app mainly shows a single highlighted topic on the screen.
- *  Students can see about other different also but when they click on the topics button. 
+ *  Students can see about other different also but when they click on the topics button.
  * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
  * It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
 
