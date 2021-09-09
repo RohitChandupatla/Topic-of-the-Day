@@ -66,3 +66,26 @@ To develop an app with authentication and authorization. <br/>
     - Recreation Centre and Gym 
     - Library
     - Sports
+    
+  ### Functional requirements ###
+  1. As a user first we need to login into the application by using the username and password.
+  2. If in case we do not the account for the FYI , we need to create a new account.
+  3. If user cannot sign in into the application then an confirmation email is sent their email address ,by reviewing that email user can login back into the application.
+  4. As a user after signing in we get into the daily topic collections page.
+  5. Here the user needs to select their intrested topic.
+  6. There after it displays the recent updates regarding that collection .
+  7. So that user will not miss any update regarding the topic.
+  8. So as a user the most viewed topics will be displayed first on the screen as a daily reminder.
+  
+
+  ###  Duration ###
+  18-Aug-2021 to 5-Dec-2021 Tools required for the app , gathering knowledge regarding it and having an clear idea for developing the app.
+  12-jan-2022 to 01-Apr-2022 Developing the app and submitting on time.
+
+  ### sDevelopment Requirement ###
+   1. Front end with Markdown and HTML.
+   2. Backend with Java.
+
+
+  ### ER Diagram
+  ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
