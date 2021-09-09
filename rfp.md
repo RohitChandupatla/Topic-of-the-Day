@@ -70,7 +70,6 @@ To develop an app with authentication and authorization. <br/>
 
   ### ER Diagram
   ![ER Diagram](images/ER.png)
-    
   ### Functional requirements 
    
    As a user
