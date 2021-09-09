@@ -100,7 +100,7 @@ To develop an app with authentication and authorization. <br/>
    * Backend with Java.
    
   ### ER Diagram
-      ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
+      ![ER Diagram](images/ER.png)
 
   ### Rough Sketch
 
