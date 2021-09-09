@@ -108,7 +108,7 @@ To develop an app with authentication and authorization and Progressive web appl
 
   ### Rough Mockup
 
-  ###### GUI
+  ### GUI
 
   ### Homepage
   <img src="images/1STSCREEN.png.png" width="450" height="400">
