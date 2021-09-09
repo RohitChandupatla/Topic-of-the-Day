@@ -98,9 +98,9 @@ To develop an app with authentication and authorization. <br/>
    * Front end with Markdown and HTML.
    * Backend with Java.
    
-   ### Rough Sketch
+  ### Rough Sketch
 
-
+  ![ROUGH](images/rough.jpg)
 
   ### Rough Mockup
 
