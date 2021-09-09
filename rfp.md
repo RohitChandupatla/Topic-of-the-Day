@@ -34,18 +34,18 @@ To develop an app with authentication and authorization and Progressive web appl
 
 ## Vision
 * Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
- This app opens with a loggin page where they get to enter their Sid and password to open the application.
+ * This app opens with a loggin page where they get to enter their sid and password to open the application.
  *  Our app mainly shows a single highlighted topic on the screen.
  *  Students can see about other different topics also but only when they click on the topics button.
- * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
- * It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
-
-## Working of the app
-* This contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
-* Once when  the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
-* When they click on that one highlighted topic then a screen with all other topics opens up. Showing each different theamtopic of that particular day.
-* Now, this page has the headings of all the topics and when the users click on a particular topic it given complete information about the topic.
+ *  Everyday, our app gets updated with its topics, so with the help of this app the students get to know the daily updates of the university through the app.
+ *  It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
 * In our application we are follwing a theam of Northwest green and white colours, with bearcat logos hearv and there making sure our vapplicatioon is pretty appealing.
+## Working of the app
+* This app contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
+* Once when the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
+* When they click on that one highlighted topic then a screen with all other topics opens up. Showing each different them topic of that particular day.
+* Now, this page has the headings of all the topics and when the users click on a particular topic it given complete information about the topic.
+
  ## Entities
  ### User
      - UserID
