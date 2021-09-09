@@ -77,5 +77,10 @@ To develop an app with authentication and authorization. <br/>
   7. So that user will not miss any update regarding the topic.
   8. So as a user the most viewed topics will be displayed first on the screen as a daily reminder.
   
+
+  ###  Duration ###
+  18-Aug-2021 to 5-Dec-2021 Tools required for the app , gathering knowledge regarding it and having an clear idea for developing the app.
+  12-jan-2022 to 01-Apr-2022 Developing the app and submitting on time.
+
   ### ER Diagram
   ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
