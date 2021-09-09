@@ -70,7 +70,8 @@ To develop an app with authentication and authorization. <br/>
   ### Functional requirements ###
   1. As a user first we need to login into the application by using the username and password.
   2. If in case we do not the account for the FYI , we need to create a new account.
-
-
+  3. If user cannot sign in into the application then an confirmation email is sent their email address ,by reviewing that email user can login back into the application.
+  
+  
   ### ER Diagram
   ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
