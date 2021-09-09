@@ -94,10 +94,10 @@ To develop an app with authentication and authorization. <br/>
   12-jan-2022 to 01-Apr-2022
   * Developing the app, testing it and submitting on time.
 
-  ### sDevelopment Requirement ###
-   1. Front end with Markdown and HTML.
-   2. Backend with Java.
-
-
+  ### Development Requirement 
+  
+   * Front end with Markdown and HTML.
+   * Backend with Java.
+   
   ### ER Diagram
   ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
