@@ -14,7 +14,7 @@ The main goal of our application is to help the bearcats to get to  know about t
 ## Client
  Name: [Dr. Denise Case](https://github.com/denisecase)
  <br>Email: dcase@nwmissouri.edu</br>
- [Northwest Missouri State University](https://www.nwmissouri.edu/)
+ [Northwest Missouri State University](https://www.nwmissouri.edu/csis/directory/case.htm)
 
 ## Team Members
 
