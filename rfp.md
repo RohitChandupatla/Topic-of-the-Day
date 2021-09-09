@@ -100,7 +100,7 @@ To develop an app with authentication and authorization. <br/>
    * Backend with Java.
    
   ### ER Diagram
-      ![ER Diagram](images/ER.png)
+  ![ER Diagram](images/ER.png)
 
   ### Rough Sketch
 
@@ -108,15 +108,15 @@ To develop an app with authentication and authorization. <br/>
   ### Rough Mockup
 
   ### Homepage
-     ![1STSCREEN](images/1STSCREEN.png)
+  ![1STSCREEN](images/1STSCREEN.png.png)
 
   ### Highlighted topic
-     ![2NDSCREEN](images/2NDSCREEN.png)
+  ![2NDSCREEN](images/2NDSCREEN.png.png)
 
   ### Collections
-     ![3RDSCREEN](images/3RDSCREEN.png)
+  ![3RDSCREEN](images/3RDSCREEN.png.png)
 
   ### Up to date Content
-    ![4THSCREEN](images/4THSCREEN.png) 
+  ![4THSCREEN](images/4THSCREEN.png.png) 
 
 
