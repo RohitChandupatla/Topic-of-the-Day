@@ -69,7 +69,8 @@ To develop an app with authentication and authorization and Progressive web appl
     - Sports
 
   ### ER Diagram
-  ![ER Diagram](images/ER.png)
+  <img src="images/ER.png" width="500" height="350">
+
   ### Functional requirements 
    
    As a user
@@ -103,23 +104,23 @@ To develop an app with authentication and authorization and Progressive web appl
    
   ### Rough Sketch
 
-  ![ROUGH](images/rough.jpg)
+  <img src="images/rough.jpg" width="450" height="400">
 
   ### Rough Mockup
 
   ###### GUI
 
   ### Homepage
-  ![1STSCREEN](images/1STSCREEN.png.png)
+  <img src="images/1STSCREEN.png.png" width="450" height="400">
 
   ### Highlighted topic
-  ![2NDSCREEN](images/2NDSCREEN.png.png)
+  <img src="images/2NDSCREEN.png.png" width="450" height="400">
 
   ### Collections
-  ![3RDSCREEN](images/3RDSCREEN.png.png)
+  <img src="images/3RDSCREEN.png.png" width="450" height="400">
 
   ### Up to date Content
-  ![4THSCREEN](images/4THSCREEN.png.png) 
+  <img src="images/4THSCREEN.png.png" width="450" height="400">
 
   ## Reference
   https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md
