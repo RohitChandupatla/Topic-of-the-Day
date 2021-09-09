@@ -69,7 +69,7 @@ To develop an app with authentication and authorization and Progressive web appl
     - Sports
 
   ### ER Diagram
-  <img src="images/ER.png" width="550" height="420">
+  <img src="images/ER.png" width="700" height="420">
 
   ### Functional requirements 
    
@@ -104,7 +104,7 @@ To develop an app with authentication and authorization and Progressive web appl
    
   ### Rough Sketch
 
-  <img src="images/rough.jpg" width="500" height="480">
+  <img src="images/rough.jpg" width="450" height="480">
 
   ### Rough Mockup
 
