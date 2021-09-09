@@ -25,7 +25,7 @@ The main goal of our application is to help the bearcats to get to  know about t
  | [Prasanna Arla](https://github.com/S542046) | Tester | s542294@nwmissouri.edu |
  
 ## Technical Requirements
-To develop an app with authentication and authorization. <br/>
+To develop an app with authentication and authorization and Progressive web application. <br/>
 
 ### Roles as suggested :
 
