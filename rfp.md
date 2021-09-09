@@ -37,7 +37,8 @@ To develop an app with authentication and authorization and Progressive web appl
 
 * This contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
 * Once when  the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
-
+* When they click on that one highlighted topic then a screen with all other topics opens up. Showing each different theamtopic of that particular day.
+* Now, this page has the headings of all the topics and when the users click on a particular topic it given complete information about the topic.
 ## Working of the app
 
  * This app opens with a loggin page where they get to enter their Sid and password to open the application.
