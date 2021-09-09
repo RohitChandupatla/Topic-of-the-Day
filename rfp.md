@@ -101,3 +101,22 @@ To develop an app with authentication and authorization. <br/>
 
   ### ER Diagram
   ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
+
+  ### Rough Sketch
+
+
+  ### Rough Mockup
+
+  ### Homepage
+   ![1STSCREEN](images/1STSCREEN.png)
+
+  ### Highlighted topic
+   ![2NDSCREEN](images/2NDSCREEN.png)
+
+  ### Collections
+  ![3RDSCREEN](images/3RDSCREEN.png)
+
+  ### Up to date Content
+  ![4THSCREEN](images/4THSCREEN.png) 
+
+
