@@ -82,5 +82,10 @@ To develop an app with authentication and authorization. <br/>
   18-Aug-2021 to 5-Dec-2021 Tools required for the app , gathering knowledge regarding it and having an clear idea for developing the app.
   12-jan-2022 to 01-Apr-2022 Developing the app and submitting on time.
 
+  ### sDevelopment Requirement ###
+   1. Front end with Markdown and HTML.
+   2. Backend with Java.
+
+
   ### ER Diagram
   ![ER Diagram](C:\Users\S542298\Documents\GitHub\Topic-of-the-Day\images)
