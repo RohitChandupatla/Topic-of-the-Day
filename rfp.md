@@ -64,8 +64,58 @@ To develop an app with authentication and authorization. <br/>
     - Administration
     - Student Union
     - Recreation Centre and Gym 
+    - Campus Dining 
     - Library
     - Sports
 
-  ## ER 
-  ![er](images/er.png)
+  ### ER Diagram
+  ![ER Diagram](images/ER.png)
+    
+  ### Functional requirements 
+   
+   As a user
+   * First we need to login into the application by using the username and password.
+   * If in case we do not have the account for the FYI , we need to create a new account.
+   * If user cannot sign in into the application then an confirmation mail is sent their email address.
+   * By reviewing that email user can login back into the application.
+   
+   As a user
+   * As a user after signing in we get into the daily topic collections page.
+   * Here the user needs to select their intrested topic.
+   * There after it displays the recent updates regarding that collection.
+   *  So that user will not miss any update regarding the topic.
+   
+   As a user
+   * The most viewed topics will be displayed first on the screen as a daily reminder.
+  
+
+  ### Schedule Duration 
+  
+  18-Aug-2021 to 5-Dec-2021 
+  * Tools required for the app, gathering knowledge regarding it and having a clear idea for developing the app.
+  
+  12-jan-2022 to 01-Apr-2022
+  * Developing the app, testing it and submitting on time.
+
+  ### Development Requirement 
+  
+   * Front end with Markdown and HTML.
+   * Backend with Java.
+   
+
+  ### Rough Sketch
+
+
+  ### Rough Mockup
+
+  ### Homepage
+  ![1STSCREEN](images/1STSCREEN.png.png)
+
+  ### Highlighted topic
+  ![2NDSCREEN](images/2NDSCREEN.png.png)
+
+  ### Collections
+  ![3RDSCREEN](images/3RDSCREEN.png.png)
+
+  ### Up to date Content
+  ![4THSCREEN](images/4THSCREEN.png.png) 
