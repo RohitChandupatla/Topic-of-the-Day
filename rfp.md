@@ -95,7 +95,10 @@ To develop an app with authentication and authorization and Progressive web appl
 | Gathering  Requirements| 05-sep-2021 | 08-oct-2021 |
 | User Interface Designs | 09-oct-2021 | 03-nov-2021 |
 | Expenditure & Schedule | 04-nov-2021 | 06-dec-2021 |
-
+| Design of Project | 13-jan-2022 | 13-feb-2022 |
+| Coding | 14-feb-2022 | 13-mar-2022 |
+| Testing | 14-mar-2022 | 01-mar-2022 |
+| Deployment | 01-apr-2022 | 10-apr-2022 |
 
 
   ### Bidder Qualifications
