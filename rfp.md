@@ -95,6 +95,16 @@ To develop an app with authentication and authorization and Progressive web appl
   12-jan-2022 to 01-Apr-2022
   * Developing the app, testing it and submitting on time.
 
+
+  ### Bidder Qualifications
+  The team that bid with the RFP should:
+  
+  * An ability necessary to the faithful performance of a contract for construction or repair work
+  * Specify about the project clearly.
+  * Talk through and elucidate the details with the client before starting the project.
+  * Use professional tools for project management and tracking.
+  * Use professional tools while collaborating.
+  * Communicate proffesionaly with the co-team memebers and the client.
   ### Development Requirement 
   
    * Front end with Markdown and HTML.
