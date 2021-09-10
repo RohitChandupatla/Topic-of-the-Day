@@ -66,7 +66,7 @@ The main goal of our application is to help the bearcats to get to  know about t
   
 ### Functional requirements 
 
-    As a user
+   As a user
    * First we need to login into the application by using the username and password.
    * If in case we do not have the account for the FYI , we need to create a new account.
    * If user cannot sign in into the application then an confirmation mail is sent their email address.
