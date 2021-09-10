@@ -99,7 +99,7 @@ To develop an app with authentication and authorization and Progressive web appl
   ### Bidder Qualifications
   The team that bid with the RFP should:
   
-  * An ability necessary to the faithful performance of a contract for construction or repair work
+  * have an ability necessary to the faithful performance of a contract for construction or repair work
   * Specify about the project clearly.
   * Talk through and elucidate the details with the client before starting the project.
   * Use professional tools for project management and tracking.
