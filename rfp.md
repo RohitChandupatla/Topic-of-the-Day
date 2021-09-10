@@ -87,7 +87,6 @@ To develop an app with authentication and authorization and Progressive web appl
 
  
  ### Schedule Duration ###
-  
 | Task | Start | End |
 | :--- | :----: | ---: |
 | Project Plan | 18-aug-2021 | 03-sep-2021 |
