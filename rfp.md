@@ -103,7 +103,7 @@ To develop an app with authentication and authorization. <br/>
   ![ER Diagram](images/ER.png)
 
   ### Rough Sketch
-
+  ![rough copy Diagram](images/Rough copy.jpeg)
 
   ### Rough Mockup
 
