@@ -34,16 +34,17 @@ To develop an app with authentication and authorization and Progressive web appl
 
 ## Vision
 * Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
-
-* This contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
-
-## Working of the app
-
- * This app opens with a loggin page where they get to enter their Sid and password to open the application.
+ * This app opens with a loggin page where they get to enter their sid and password to open the application.
  *  Our app mainly shows a single highlighted topic on the screen.
- *  Students can see about other different also but when they click on the topics button. 
- * Everday the updates get changed, so with the help of this app the students get to know the daily changes in the app.
- * It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
+ *  Students can see about other different topics also but only when they click on the topics button.
+ *  Everyday, our app gets updated with its topics, so with the help of this app the students get to know the daily updates of the university through the app.
+ *  It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
+* In our application we are follwing a theam of Northwest green and white colours, with bearcat logos hearv and there making sure our vapplicatioon is pretty appealing.
+## Working of the app
+* This app contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
+* Once when the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
+* When they click on that one highlighted topic then a screen with all other topics opens up. Showing each different them topic of that particular day.
+* Now, this page has the headings of all the topics and when the users click on a particular topic it given complete information about the topic.
 
  ## Entities
  ### User
@@ -66,7 +67,8 @@ To develop an app with authentication and authorization and Progressive web appl
     - Sports
 
   ### ER Diagram
-  ![ER Diagram](images/ER.png)
+  ![ER](images/ER.png)
+
   ### Functional requirements 
    
    As a user
@@ -95,6 +97,16 @@ To develop an app with authentication and authorization and Progressive web appl
 | Expenditure & Schedule | 04-nov-2021 | 06-dec-2021 |
 
 
+
+  ### Bidder Qualifications
+  The team that bid with the RFP should:
+  
+  * have an ability necessary to the faithful performance of a contract for construction or repair work
+  * Specify about the project clearly.
+  * Talk through and elucidate the details with the client before starting the project.
+  * Use professional tools for project management and tracking.
+  * Use professional tools while collaborating.
+  * Communicate proffesionaly with the co-team memebers and the client.
   ### Development Requirement 
   
    * Front end with Markdown and HTML.
@@ -102,11 +114,11 @@ To develop an app with authentication and authorization and Progressive web appl
    
   ### Rough Sketch
 
-  ![ROUGH](images/rough.jpg)
+  <img src="images/rough.jpg" width="450" height="480">
 
   ### Rough Mockup
 
-  ###### GUI
+  ### GUI
 
   ### Homepage
   ![1STSCREEN](images/1STSCREEN.png.png)
@@ -115,10 +127,10 @@ To develop an app with authentication and authorization and Progressive web appl
   ![2NDSCREEN](images/2NDSCREEN.png.png)
 
   ### Collections
-  ![3RDSCREEN](images/3RDSCREEN.png.png)
+  ![3RDSCREEN](images/3RDSCREEN.png.png) 
 
   ### Up to date Content
-  ![4THSCREEN](images/4THSCREEN.png.png) 
+  ![4THSCREEN](images/4THSCREEN.png.png)
 
   ## Reference
   https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md
