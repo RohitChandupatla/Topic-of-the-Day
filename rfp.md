@@ -108,6 +108,9 @@ To develop an app with authentication and authorization and Progressive web appl
    
    ### Rough Sketch
   <img src="images/rough.jpeg" width="600" height="550">
+
+  ## Logo
+  ![Logo](images/logo.png)
   
   ### Rough Mockup
   ### GUI
@@ -119,6 +122,7 @@ To develop an app with authentication and authorization and Progressive web appl
   ![3RDSCREEN](images/3RDSCREEN.png.png) 
   ### Up to date Content
   ![4THSCREEN](images/4THSCREEN.png.png)
+
   ## Reference
   https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md
 
