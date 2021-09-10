@@ -112,7 +112,7 @@ To develop an app with authentication and authorization and Progressive web appl
   ### Rough Mockup
   ### GUI
   ### Homepage
-  ![1STSCREEN](images/1STSCREEN.png.png)
+  ![1STSCREEN](images/1STSCREEN.png)
   ### Highlighted topic
   ![2NDSCREEN](images/screem2.png)
   ### Collections
