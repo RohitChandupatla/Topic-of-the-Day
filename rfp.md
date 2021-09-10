@@ -110,12 +110,12 @@ To develop an app with authentication and authorization and Progressive web appl
   <img src="images/rough.jpeg" width="600" height="550">
 
   ## Logo
-  ![Logo](images/logo.png.png)
+  ![Logo](images/logo.png)
   
   ### Rough Mockup
   ### GUI
   ### Homepage
-  ![1STSCREEN](images/1STSCREEN.png)
+  ![1STSCREEN](images/screen1.png)
   ### Highlighted topic
   ![2NDSCREEN](images/screem2.png)
   ### Collections
