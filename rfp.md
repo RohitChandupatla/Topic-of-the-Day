@@ -117,7 +117,7 @@ To develop an app with authentication and authorization and Progressive web appl
    
   ### Rough Sketch
 
-  ![rough copy Diagram](images/Rough copy.jpeg)
+  ![rough copy Diagram](images/rough.jpeg)
 
   ### Rough Mockup
 
