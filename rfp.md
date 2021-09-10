@@ -5,6 +5,7 @@
     <br>1. To help the students to stay updated.</br>
     <br>2. Students can make sure if they covered a particular topic.</br>
     <br>3. Shows the most impostant topics that students might definetly want to cover.</br>
+
 ## Objective 
 <p>
 The main goal of our application is to help the bearcats to get to  know about the updates of different topics that are happening in the university and to check  if they reached out to them.</p>
@@ -21,10 +22,7 @@ The main goal of our application is to help the bearcats to get to  know about t
  | [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)  | Front End Developer  | s542423@nwmissouri.edu |
  | [Akanksha Sudhagoni](https://github.com/S542046) | Product Owner  | s542046@nwmissouri.edu |
  | [Sri Sathya Mamidala](https://github.com/S542046) | Back End Developer  | s542298@nwmissouri.edu |
- | [Prasanna Arla](https://github.com/S542046) | Tester | s542294@nwmissouri.edu |
- 
- ## Technical Requirements
-To develop an app with authentication and authorization and Progressive web application. <br/>
+ | [Prasanna Arla](https://github.com/S542046) | Tester | s542294@nwmissouri.edu 
 
 ### Roles as suggested :
 ‣ Administrator (to access all the information and keep updating the topics in the app).<br/>
@@ -38,6 +36,7 @@ To develop an app with authentication and authorization and Progressive web appl
  *  Everyday, our app gets updated with its topics, so with the help of this app the students get to know the daily updates of the university through the app.
  *  It even has a speciality of poping up a daily reminder of the most viewed topic by the students so that they would not miss any update regarding the topic they are looking for.
 * In our application we are follwing a theam of Northwest green and white colours, with bearcat logos hearv and there making sure our vapplicatioon is pretty appealing.
+
 ## Working of the app
 * This app contains an open login page with which the user can enter the  username and the password as the credentials  and can login into the app. 
 * Once when the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
@@ -66,6 +65,7 @@ To develop an app with authentication and authorization and Progressive web appl
   ![ER](images/ER.png)
   
 ### Functional requirements 
+
     As a user
    * First we need to login into the application by using the username and password.
    * If in case we do not have the account for the FYI , we need to create a new account.
