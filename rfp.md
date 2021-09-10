@@ -85,13 +85,16 @@ To develop an app with authentication and authorization and Progressive web appl
    * The most viewed topics will be displayed first on the screen as a daily reminder.
   
 
-  ### Schedule Duration 
+ 
+ ### Schedule Duration ###
   
-  18-Aug-2021 to 5-Dec-2021 
-  * Tools required for the app, gathering knowledge regarding it and having a clear idea for developing the app.
-  
-  12-jan-2022 to 01-Apr-2022
-  * Developing the app, testing it and submitting on time.
+| Task | Start | End |
+| :--- | :----: | ---: |
+| Project Plan | 18-aug-2021 | 03-sep-2021 |
+| Gathering  Requirements| 05-sep-2021 | 08-oct-2021 |
+| User Interface Designs | 09-oct-2021 | 03-nov-2021 |
+| Expenditure & Schedule | 04-nov-2021 | 06-dec-2021 |
+
 
   ### Development Requirement 
   
