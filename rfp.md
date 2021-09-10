@@ -114,7 +114,7 @@ To develop an app with authentication and authorization and Progressive web appl
   ### Homepage
   ![1STSCREEN](images/1STSCREEN.png.png)
   ### Highlighted topic
-  ![2NDSCREEN](images/2NDSCREEN.png.png)
+  ![2NDSCREEN](images/2NDSCREEN.png)
   ### Collections
   ![3RDSCREEN](images/3RDSCREEN.png.png) 
   ### Up to date Content
