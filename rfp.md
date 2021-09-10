@@ -101,11 +101,11 @@ To develop an app with authentication and authorization and Progressive web appl
   * Use professional tools for project management and tracking.
   * Use professional tools while collaborating.
   * Communicate proffesionaly with the co-team memebers and the client.
-  * 
+  
   ### Development Requirement 
    * Front end with Markdown and HTML.
    * Backend with Java.
-   * 
+   
    ### Rough Sketch
   <img src="images/rough.jpeg" width="600" height="550">
   
