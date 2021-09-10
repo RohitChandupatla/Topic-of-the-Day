@@ -8,10 +8,12 @@
 ## Objective 
 <p>
 The main goal of our application is to help the bearcats to get to  know about the updates of different topics that are happening in the university and to check  if they reached out to them.</p>
+
 ## Client
  Name: [Dr. Denise Case](https://github.com/denisecase)
  <br>Email: dcase@nwmissouri.edu</br>
  [Northwest Missouri State University](https://www.nwmissouri.edu/csis/directory/case.htm)
+ 
 ## Team Members
 
  | Name of the Team Members | Roles | Contact Information | 
@@ -20,11 +22,14 @@ The main goal of our application is to help the bearcats to get to  know about t
  | [Akanksha Sudhagoni](https://github.com/S542046) | Product Owner  | s542046@nwmissouri.edu |
  | [Sri Sathya Mamidala](https://github.com/S542046) | Back End Developer  | s542298@nwmissouri.edu |
  | [Prasanna Arla](https://github.com/S542046) | Tester | s542294@nwmissouri.edu |
+ 
  ## Technical Requirements
 To develop an app with authentication and authorization and Progressive web application. <br/>
+
 ### Roles as suggested :
 ‣ Administrator (to access all the information and keep updating the topics in the app).<br/>
 ‣ User (to have a look at the topics).<br/>
+
 ## Vision
 * Our team is building an web application named Topic-of-the-day.This app can give you the updates regarding specific topics of university (for example: campus dining, sports, library, recreation etc..) to the students. This app can be run in both the android and iOS.  
  * This app opens with a loggin page where they get to enter their sid and password to open the application.
@@ -38,6 +43,7 @@ To develop an app with authentication and authorization and Progressive web appl
 * Once when the user enters their login credentials, a page which has a breacat logo telling "hi" opens up. That page also shows the a single highlighted topic of the day.
 * When they click on that one highlighted topic then a screen with all other topics opens up. Showing each different them topic of that particular day.
 * Now, this page has the headings of all the topics and when the users click on a particular topic it given complete information about the topic.
+
  ## Entities
  ### User
      - UserID
@@ -58,6 +64,7 @@ To develop an app with authentication and authorization and Progressive web appl
     - Sports
 ### ER Diagram
   ![ER](images/ER.png)
+  
 ### Functional requirements 
     As a user
    * First we need to login into the application by using the username and password.
@@ -73,6 +80,7 @@ To develop an app with authentication and authorization and Progressive web appl
    
    As a user
    * The most viewed topics will be displayed first on the screen as a daily reminder.
+   
   ### Schedule Duration ###
 | Task | Start | End |
 | :--- | :----: | ---: |
@@ -84,6 +92,7 @@ To develop an app with authentication and authorization and Progressive web appl
 | Coding | 14-feb-2022 | 13-mar-2022 |
 | Testing | 14-mar-2022 | 01-mar-2022 |
 | Deployment | 01-apr-2022 | 10-apr-2022 |
+
   ### Bidder Qualifications
   The team that bid with the RFP should:
   * have an ability necessary to the faithful performance of a contract for construction or repair work
@@ -92,11 +101,14 @@ To develop an app with authentication and authorization and Progressive web appl
   * Use professional tools for project management and tracking.
   * Use professional tools while collaborating.
   * Communicate proffesionaly with the co-team memebers and the client.
+  * 
   ### Development Requirement 
    * Front end with Markdown and HTML.
    * Backend with Java.
+   * 
    ### Rough Sketch
   <img src="images/rough.jpeg" width="600" height="550">
+  
   ### Rough Mockup
   ### GUI
   ### Homepage
