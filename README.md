@@ -8,4 +8,5 @@ The main objective of our application is to assist bearcats stay up to speed on 
 [Sri Sathya Mamidala](https://github.com/srisathyamamidala)</br>
 [Prasanna Arla](https://github.com/PRASANNAARLA)</br>
 
+---
 ### [Proposal](https://github.com/Rohitreddz/proposal) 
