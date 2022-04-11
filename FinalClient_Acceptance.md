@@ -19,6 +19,10 @@
 
 ## You can now see screenshots of our application here.
 
+This is a collection of screenshots from our GDP 1 project.
+
+
+
 
 
 
