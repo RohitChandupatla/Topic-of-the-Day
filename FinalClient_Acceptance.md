@@ -21,6 +21,7 @@
 
 This is a collection of screenshots from our GDP 1 project.
 
+![HomeScreen](/images/HomeScreen.jpg)
 
 
 
