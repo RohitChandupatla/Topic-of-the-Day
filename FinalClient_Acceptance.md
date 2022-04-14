@@ -31,7 +31,7 @@ what we've accomplished so far in the gdp-1
 ![LoginScreen](/images/2.png)
 ![SignUpScreen](/images/3.png)
 ![AddHabitScreen](/images/4.png)
-![ViewHabitScreen](/iamges/5.png)
+![ViewHabitScreen](/images/5.png)
 
 
 
