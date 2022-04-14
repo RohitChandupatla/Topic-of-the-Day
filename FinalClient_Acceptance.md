@@ -1,7 +1,5 @@
 # Final Client Acceptance 
 
-## You can now see screenshots of our application here.
-
 This is the GDP-1 proposal from the client.
 ![HomeScreen](/images/HomeScreen.jpg)
 ![LoginScreen](/images/LOGINScreen.jpg)
@@ -38,7 +36,6 @@ The application's user detailed view habit  page
 
  The application's add habit page
 
-
 ![HomeScreen](/images/new2.png)
 
 The application's admin page
@@ -50,7 +47,9 @@ User view all habits page of the application
 
 ![HomeScreen](/images/new8.png)
 
-• We provide all of the features that we mentioned in GDP1 in response to the request. </br>
+#### Please go through this 
+
+**• We provide all of the features that we mentioned in GDP1 in response to the request. </br>
 • As per your desire, we provided audio features for each habit. </br>
 • As per your desire, we included video urls for each habit. </br>
 • We included all the links to the footer that were recommended in the gdp-2 as per the requirement. </br>
@@ -65,13 +64,13 @@ User view all habits page of the application
 • Xunit was used to unit test our application. </br>
 • I've also generated test coverage results using DotCover in response to the request. </br>
 • As per your suggestion for renaming the program, we chose NotifyMyHabit as the name, while our application name in the GDP 1 is Habit Reminder. </br>
-• We updated our appicatiion UI from GDP-1, and now we've provided the finalized UI and features of the NotifyMyHabit application. </br>
+• We updated our appicatiion UI from GDP-1, and now we've provided the finalized UI and features of the NotifyMyHabit application. </br>**
 
 
 
 So, finally, my application includes all of the documentation, which you can see in my Readme.md, and here is the job we completed. Thank you for providing us with this opportunity.
 
-If we met the application's requirements, please sign here to indicate your acceptance  </br>
+**If we met the application's requirements, please sign here to indicate your acceptance  </br>**
 
 
 
