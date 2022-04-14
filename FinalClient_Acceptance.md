@@ -19,9 +19,19 @@
 
 ## You can now see screenshots of our application here.
 
-This is a collection of screenshots from our GDP 1 project.
-
+This is the GDP-1 proposal from the client.
 ![HomeScreen](/images/HomeScreen.jpg)
+![LoginScreen](/images/LOGINScreen.jpg)
+![HabitScreen](/images/HabitScreen.jpg)
+![CustomizationScreen](/images/CustomizationScreen.jpg)
+
+what we've accomplished so far in the gdp-1
+
+![HomeScreen](/images/1.png)
+![LoginScreen](/images/2.png)
+![SignUpScreen](/images/3.png)
+![AddHabitScreen](/images/4.png)
+![ViewHabitScreen](/iamges/5.png)
 
 
 
