@@ -35,19 +35,45 @@ what we've accomplished so far in the gdp-1
 
 So, based on GDP-1, we decided to redesign the application's background and UI. We also decided to finish the program with a new stack. </br>
 
-I've included all of the application's completed screenshots below. </br<
+I've included all of the application's completed screenshots below. </br>
 
-![NewScreen1](\images\new1.png)
-![NewScreen2](\images\new2.png)
-![NewScreen3](\images\new3.png)
-![NewScreen4](\images\new4.png)
-![NewScreen5](\images\new5.png)
-![NewScreen6](\images\new6.png)
-![NewScreen7](\images\new7.png)
-![NewScreen8](\images\new8.png)
+The application's landing page
+
+![HomeScreen](/images/new1.png)
+
+The application's signup page
+
+![HomeScreen](/images/new6.png)
+
+ The application's login page
+
+![HomeScreen](/images/new5.png)
+
+The application's user detailed view habit  page
+
+![HomeScreen](/images/new3.png)
+
+ The application's add habit page
 
 
+![HomeScreen](/images/new2.png)
+
+The application's admin page
 
 
+![HomeScreen](/images/new7.png)
+
+User view all habits page of the application
+
+![HomeScreen](/images/new8.png)
+
+
+So, finally, my application includes all of the documentation, which you can see in my Readme.md, and here is the job we completed. Thank you for providing us with this opportunity.
 
 If we met the application's requirements, please sign here to indicate your acceptance  </br>
+
+
+
+
+
+
