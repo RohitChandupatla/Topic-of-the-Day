@@ -33,6 +33,18 @@ what we've accomplished so far in the gdp-1
 ![AddHabitScreen](/images/4.png)
 ![ViewHabitScreen](/images/5.png)
 
+So, based on GDP-1, we decided to redesign the application's background and UI. We also decided to finish the program with a new stack. </br>
+
+I've included all of the application's completed screenshots below. </br<
+
+![NewScreen1](\images\new1.png)
+![NewScreen2](\images\new2.png)
+![NewScreen3](\images\new3.png)
+![NewScreen4](\images\new4.png)
+![NewScreen5](\images\new5.png)
+![NewScreen6](\images\new6.png)
+![NewScreen7](\images\new7.png)
+![NewScreen8](\images\new8.png)
 
 
 
